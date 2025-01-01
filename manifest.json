@@ -4,7 +4,7 @@
   "codeowners": ["@cylagard"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://www.home-assistant.io/integrations/myindygo",
+  "documentation": "https://github.com/cylagard/homeassistant-myindygo",
   "homekit": {},
   "iot_class": "cloud_polling",
   "requirements": ["requests==2.32.3", "beautifulsoup4==4.12.3"],
